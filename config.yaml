@@ -21,14 +21,14 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: 
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/profile.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
